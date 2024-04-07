@@ -60,6 +60,12 @@ Our analysis incorporates datasets from major streaming platforms, offering a ri
 - **Disney+ Movies and TV Shows**: [View Dataset](https://www.kaggle.com/datasets/shivamb/disney-movies-and-tv-shows)
 - **(Outdated) IMDB Movies Dataset**: [View Dataset](https://www.kaggle.com/datasets/harshitshankhdhar/imdb-dataset-of-top-1000-movies-and-tv-shows)
 
+## GUI Prediction Results
+
+Experience our tool's capabilities firsthand with a glimpse into the user interface and prediction results. Below is a snapshot of Cinemalytics in action, demonstrating how our analytical insights are presented through the GUI. This intuitive interface showcases genre popularity predictions across different platforms, offering filmmakers data-driven guidance on where to distribute their content.
+
+![GUI Prediction Results](https://github.com/SamerEladad/Cinemalytics/blob/main/submission/images/guis.png)
+
 ## Contributors
 - Anh Quy Daniel Nguyen
 - Muhammad Uzair Rana
